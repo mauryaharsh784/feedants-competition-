@@ -1,0 +1,14 @@
+{
+  "name": "feedants-competition",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Feedants Competition Details - full-stack technical assignment (React Native + Node/Express + MongoDB)",
+  "scripts": {
+    "server:install": "cd server && npm install",
+    "server:dev": "cd server && npm run dev",
+    "server:seed": "cd server && npm run seed",
+    "server:test": "cd server && npm test",
+    "mobile:install": "cd mobile && npm install",
+    "mobile:start": "cd mobile && npm start"
+  }
+}
